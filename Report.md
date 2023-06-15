@@ -1,7 +1,11 @@
 # CS161L - Lab 06 Report
 ## Conclusions:
 
-## Graphs: 
+## Graphs and Some Charts
+**Some Charts**
+
+![default view of lab04.vcd dumpfile](https://github.com/Ctr011/CS161L-Lab06/blob/0d057ba5688710bda83942812e981e5b6fddac10/charts.PNG)
+
 **HC(FIFO)**
 
 ![default view of lab04.vcd dumpfile](https://github.com/Ctr011/CS161L-Lab06/blob/19386295b67538fb705bc0e11b2bbddc6bd3a3cf/HCFIFO.PNG)
